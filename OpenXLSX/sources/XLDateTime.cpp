@@ -6,6 +6,7 @@
 #include "XLException.hpp"
 #include <string>
 #include <cmath>
+#include <cstdint>
 
 namespace {
 
